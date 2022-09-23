@@ -1,0 +1,54 @@
+div {
+	font-family: Oswald;
+	color: #333;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 40px 0;
+}
+#container {
+	width: 100%;
+}
+
+.header {
+	float: left;
+	width: 100%;
+	height: 70px;
+}
+.h1 {
+	background-color: #6495ED;
+}
+
+#middle {
+	clear: left;
+	width: 100%;
+	height: 70px;
+	background-color: 	#FFB6C1;
+	
+}
+
+#footer1  {
+	float: left;
+	width: 70%;
+	height: 330px;
+	margin-bottom: 10px;
+	background-color: #9ACD32
+}
+
+#footer2  {
+	float: left;
+	width: 30%;
+	height: 330px;
+	background-color: #3CB371;
+}
+
+strong {
+
+  display: block;
+  text-align: center;
+  top: 50%;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: black;
+
+}
